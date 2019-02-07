@@ -1,6 +1,9 @@
 # Directories
-*/secrets/*
-*/target/*
+Scenic_Trips-ejb/target/
+Scenic_Trips-war/target/
+secrets/
+target/
+
 
 # File type
 *.ear
