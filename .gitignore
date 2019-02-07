@@ -1,0 +1,11 @@
+# Directories
+secrets/
+*/target/
+
+# File types
+*.ear
+*.jar
+*.sec
+*.war
+
+#specific files
